@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388509933655",
+    "firebase_url": "https://immersiveeducationfinal.firebaseio.com",
+    "project_id": "immersiveeducationfinal",
+    "storage_bucket": "immersiveeducationfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388509933655:android:75cf0866e997c3a5688312",
+        "android_client_info": {
+          "package_name": "com.example.immersiveeducationfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388509933655-psv9n4n69dhb23kpsj3qvg69ic7oec02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1KiMMPiSrA9NJy5Mmf3jgYK-Be6gkb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388509933655-psv9n4n69dhb23kpsj3qvg69ic7oec02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
