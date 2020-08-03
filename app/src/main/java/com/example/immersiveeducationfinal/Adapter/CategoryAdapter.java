@@ -18,6 +18,8 @@ import com.example.immersiveeducationfinal.R;
 
 import java.util.List;
 
+//bridge class for catgeories
+//adds access to data
 public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.MyViewHolder> {
 
     Context context;

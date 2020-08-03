@@ -116,7 +116,6 @@ public class QuestionActivity extends AppCompatActivity
         btn_done.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Here we will copy code on menu_finish_game
                 if(!isAnswerModeView)
                 {
                     new MaterialStyledDialog.Builder(QuestionActivity.this)

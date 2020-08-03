@@ -1,5 +1,5 @@
 package com.example.immersiveeducationfinal.Model;
-
+//class that loads categories
 public class Category {
     private int id;
     private String name, image;
